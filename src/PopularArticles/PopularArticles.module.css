@@ -1,0 +1,30 @@
+.pop_articles{
+    grid-area: pop_articles;
+    background-color: #3C424B;
+    margin: 40px;
+    padding: 15px;
+}
+.articles {
+    color: white;
+}
+.article {
+    color: white;
+}
+.hrarticles{
+    color: white;
+}
+
+.views {
+    margin-left: 5px;
+    display: inline-block;
+}
+.likes {
+    margin-left: 5px;
+    display: inline-block;
+}
+
+.icons {
+    width: 20px;
+    height: 20px;
+    margin: 5px;
+}

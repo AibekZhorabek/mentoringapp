@@ -1,0 +1,44 @@
+.filterblock {
+    background-color: #515A66;
+    margin: 40px;
+    padding: 30px;
+}
+.spanhead {
+    color: white;
+    margin-left: 30px;
+}
+.header {
+}
+
+.header p{
+    display: inline-block;
+    color: white;
+}
+.input {
+    margin: 4px;
+    display: inline-block;
+}
+img {
+    font-size: 10px;
+}
+input[type=text] {
+    border-radius: 10px;
+    padding-left: 10px;
+    color: #ffe6f4;
+    background-image: url("https://img.icons8.com/ios-glyphs/344/search--v1.png");
+    background-position: 5px 5px;
+    background-repeat: no-repeat;
+    background-color: #262D37;
+    border: none;
+    width: 400px;
+    height: 40px
+
+}
+select{
+    border-radius: 10px;
+    background-color: #262D37;
+    border: none;
+    color: white;
+    height: 40px
+}
+

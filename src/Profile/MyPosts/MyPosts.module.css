@@ -1,0 +1,12 @@
+.posts{
+    margin: 40px;
+}
+
+.item {
+    color: green;
+}
+
+img {
+    width: 30px;
+    border-radius: 10px;
+}

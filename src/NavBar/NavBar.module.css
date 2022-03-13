@@ -1,0 +1,25 @@
+
+.nav {
+    grid-area: n;
+    background-color: #3C424B;
+    padding-left: 30px;
+    line-height: 80px;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 14px 28px, rgba(0, 0, 0, 0.22) 0px 10px 10px;
+}
+.nav a {
+    color: black;
+}
+.item img {
+
+}
+.item a {
+    padding-left: 10px;
+    color: white;
+    text-decoration: none;
+}
+.item {
+    color : white;
+}
+.item.active{
+    color : gold;
+}
